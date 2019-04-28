@@ -22,3 +22,5 @@ fields:
   config:
     maxSize: '4'
   label: Image
+pages:
+- service-1.md
