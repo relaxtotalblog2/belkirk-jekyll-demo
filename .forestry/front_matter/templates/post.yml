@@ -38,3 +38,9 @@ fields:
   type: text
   hidden: true
   default: post
+- name: label_test
+  type: text
+  config:
+    required: false
+  label: Label test
+  description: This is just a test
